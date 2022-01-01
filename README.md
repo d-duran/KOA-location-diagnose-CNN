@@ -7,7 +7,9 @@ Master´s thesis Universitat Oberta de Catalunya ([UOC](http://uoc.edu "UOC"))
 Link to Text
 
 **Author:** David Durán Olivar
+
 **Supervisor 1:** Héctor Espinós Morató
+
 **Supervisor 2:** Darwin Patricio Castillo Malla
 
 ## Description
