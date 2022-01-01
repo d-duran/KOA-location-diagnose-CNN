@@ -16,7 +16,7 @@ Link to Text
 The project is part of my Master´s Thesis for the Data Science Master degree at the Universitat Oberta de Catalunya ([UOC](http://uoc.edu "UOC")). It discusses the knee osteoarthritis (OA) severity diagnosis utilizing deep learning tools based on Convolutional Neural Networks (CNN). Particularly, the study focuses on location of knee joints out of X-ray images and their classification of  OA severity according to Kellgren-Lawrance (KL) system.
 
 ## Knee joint Region of Interest Location
-![](figs/xray+mask+pred+roi.png.png)
+![](figs/roi_pipeline.png)
 
 ## Knee Osteoarthritis severity assessment
-![](figs/gradCAM.png)
+![](figs/gradcam_viz.png)
