@@ -1,6 +1,7 @@
 # Automatic Detection of Knee Joints and Classification of Knee Osteoarthritis Severity from Plain Radiographs using CNNs
 
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=for-the-badge&logo=Python)](https://www.python.org/) [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=for-the-badge&logo=Latex)](https://www.latex-project.org/)
+
 Master´s thesis Universitat Oberta de Catalunya ([UOC](http://uoc.edu "UOC"))
 
 Link to Text
